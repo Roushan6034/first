@@ -7,6 +7,8 @@ signed main(){
     cin.tie(NULL);
     cout.tie(NULL);
     int t;
-    cout<<"HEllo darlings";
+    cout<<"HEllo darling";
+    cout<<"love";
+    cout<<"quicksort";
     return 0;
 }
