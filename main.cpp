@@ -10,5 +10,6 @@ signed main(){
     cout<<"HEllo darling";
     cout<<"love";
     cout<<"quicksort";
+    cout<<"bubblesort";
     return 0;
 }
